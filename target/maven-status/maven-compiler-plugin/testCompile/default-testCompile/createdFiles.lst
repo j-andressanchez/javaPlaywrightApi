@@ -1,0 +1,8 @@
+com\playrightTest\utils\ApiClient$ApiResponse.class
+com\playrightTest\steps\PokeApiSteps.class
+com\playrightTest\utils\Constantes.class
+com\playrightTest\utils\SimDatadriven.class
+com\playrightTest\definition\PokeApiDefinition.class
+com\playrightTest\pages\PokeApiPage.class
+com\playrightTest\utils\ApiClient.class
+com\playrightTest\runners\TestRunner.class
